@@ -43,16 +43,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://hung-porfolio.vercel.app/" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="thanhhung-porfolio" />
+    <img width="90" height="90" src="images/logo.png" alt="thanhhung-porfolio" />
   </a>
   <a href="https://www.facebook.com/thanhhung.ly.100/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thanhhung-facebook" />
+    <img src="images/fb.png" alt="thanhhung-facebook" width="90" height="90"/>
   </a>
   <a href="https://www.linkedin.com/in/hung-ly-354a33275/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thanhhung-linkedin" />
+    <img src="images/linkedin.png" alt="thanhhung-linkedin" width="90" height="90" />
   </a>
   <a href="mailto:thanhhung270502@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thanhhung-email" />
+    <img src="images/mail.png" alt="thanhhung-email" width="90" height="90" />
   </a>
 </div>
 
